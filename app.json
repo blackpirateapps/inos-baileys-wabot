@@ -1,7 +1,7 @@
 {
-  "name": "inos-baileys-wabot",
-  "description": "WhatsApp Bot Heroku",
-  "repository": "https://github.com/InosID/inos-baileys-wabot",
+  "name": "Sam Bot",
+  "description": "Bot made by Sam Kira Kun",
+  "repository": "https://github.com/blackpirateapps/inos-baileys-wabot",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": ["bot"]
 }
